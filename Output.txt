@@ -1,0 +1,6 @@
+Invalid username testcase passed
+Blank username testcase passed
+Invalid username testcase passed
+Invalid username testcase passed
+Blank username testcase passed
+Invalid username testcase passed
